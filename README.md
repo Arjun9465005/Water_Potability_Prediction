@@ -2,8 +2,6 @@
 This project predicts the water potability that is the water is safe for drinking or not.
 ## heatmap co-relation
 ![heatmap co-relation](https://github.com/Arjun9465005/Water_Potability_Prediction/assets/146981693/4a838e16-4d29-40ff-b0e7-092c8ba2275b)
-## heatmap co-relation
-![heatmap co-relation](https://github.com/Arjun9465005/Water_Potability_Prediction/assets/146981693/4a838e16-4d29-40ff-b0e7-092c8ba2275b)
 ## histpgram for PH
 ![histpgram for PH](https://github.com/Arjun9465005/Water_Potability_Prediction/assets/146981693/c452afbb-8a17-4a4b-b771-fda2bc9ceb40)
 ## Histogram for Trihalomethanes
